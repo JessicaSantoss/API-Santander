@@ -16,8 +16,6 @@ $ git clone https://github.com/JessicaSantoss/API-Santander
 
 O Projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-<h3> Back-End </h3>
-
 - Java
 
 - MySQL
