@@ -18,9 +18,15 @@ O Projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <h3> Back-End </h3>
 - Java
+
 - MySQL
+
 - Flyaway
+
 - Spring Boot
+
 - Postman
+
 - Swagger
+
 
