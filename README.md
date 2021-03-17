@@ -16,11 +16,11 @@ $ git clone https://github.com/JessicaSantoss/API-Santander
 
 O Projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-Back-End
-Java
-MySQL
-Flyaway
-Spring Boot
-Postman
-Swagger
+<h3> Back-End </h3>
+- Java
+- MySQL
+- Flyaway
+- Spring Boot
+- Postman
+- Swagger
 
